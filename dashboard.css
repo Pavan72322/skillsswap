@@ -1,0 +1,50 @@
+.head-prop{
+    border:2px solid;
+    height:20vh;
+    border-radius: 5px;
+    width:auto;
+    color:#67acb5;
+    text-align:center;
+    font-size:auto;
+    background-color: rgb(215, 214, 214);
+    border-color:rgb(99, 183, 174);
+    box-shadow:7px 7px;
+  }
+  .head-prop2{
+    border:1px solid;
+    border-radius: 5px;
+    color:#f3f3f3 ;
+    height:6vh;
+    width:auto;
+    text-align:center;
+    font-size:26px;
+    background-color: #313a9e;
+  }
+  .whole-prop{  
+    height:100vh;
+    background-color:#ffffff;
+    font-style:initial;
+    background-image: url("");
+    background-image:linear-gradient(rgb(105, 205, 220),rgb(175, 198, 205)) ;
+    background-size: cover;
+    }
+  
+  .img-logo{
+    height: 30vh;
+    width:15vw;
+
+  }
+  .suggested-profile{
+    border:2px solid;
+    width:30vw;
+    padding:10px;
+    border-radius: 10px;
+  }
+  .font-bold{
+    font-weight: bold;
+  }
+  .head-prop:hover{
+    background-color: rgb(113, 112, 112);
+    color:rgb(255, 255, 255);
+    box-shadow:7px 7px;
+  }
